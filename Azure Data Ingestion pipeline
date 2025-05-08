@@ -1,0 +1,1 @@
+This document outlines the process for creating and deploying an ETL pipeline using Azure Data Factory (ADF). The pipeline extracts data from a source (e.g., CSV file in Blob Storage or SQL Server), optionally transforms the data, and loads it into a destination (Azure SQL Database or Azure Data Lake Storage).
